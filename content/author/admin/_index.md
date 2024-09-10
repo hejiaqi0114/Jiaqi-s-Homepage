@@ -72,6 +72,8 @@ education:
 
 ---
 
+## About Me
+
 I am a PhD student supervised by [Prof. Bart Nicolai](https://www.kuleuven.be/wieiswie/en/person/00014537) at [MeBioS](https://www.biw.kuleuven.be/biosyst/mebios), Department of Biosystems, KU Leuven. I have gained the hands-on experience and develope an interest on applying deep learning during my master thesis, therefore, I wanted to do a PhD that is related to this. 
 
 My PhD project is about computer vision for internal quality inspection of fruits and vegetables using advanced X-ray imaging techniques. The objective is to identify or develop more advanced methods or approach (deep learning) to improve internal quality insepction on X-ray images in the postharvest domain. 
